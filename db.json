@@ -2,9 +2,27 @@
   "tasks": [
     { 
       "id": 1,
-      "name": "task 1", 
-      "date": "2022-03-01",
+      "name": "Taller HTTP react", 
+      "date": "2022-03-30",
       "done": true 
+    },
+    { 
+      "id": 2,
+      "name": "Taller 2 Investigacion de operaciones", 
+      "date": "2022-04-01",
+      "done": false
+    },
+    { 
+      "id": 3,
+      "name": "Infografia bioetica", 
+      "date": "2022-03-30",
+      "done": true
+    },
+    { 
+      "id": 4,
+      "name": "Wireframe diseño de interfaces", 
+      "date": "2022-03-31",
+      "done": false
     }
   ]
 }
