@@ -2,7 +2,7 @@
   "tasks": [
     { 
       "name": "task 1", 
-      "date": 2022-03-01,
+      "date": "2022-03-01",
       "done": true 
     }
   ]
